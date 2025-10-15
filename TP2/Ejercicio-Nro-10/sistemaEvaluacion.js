@@ -41,3 +41,5 @@ do {
     salida = Number(prompt("¿Desea seguir ingresando? 0-NO | 1-Si "));
 
 } while (salida !== 0);
+
+ console.log(`cantidad de errores ${error}`);
