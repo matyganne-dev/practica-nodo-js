@@ -40,6 +40,7 @@ do {
     opcion = Number(prompt("Selecciona tu proximo vehículo de interes 0 km que tenemos en stock:\n1) Amarok V6 (Oferta: 65.000.000)\n2) TAOS 53.000.000 \n3) Polo Nuevo 47.000.000 "));
 
     switch (opcion) {
+        //caso amarok
         case 1:
             valorVehiculo = 65000000;
             console.log("vehiculo seleccionado: Amarok V6");
@@ -98,6 +99,7 @@ do {
                         `);
             break;
 
+        //caso TAOS
         case 2:
             valorVehiculo = 53000000;
             console.log("vehiculo seleccionado: TAOS");
@@ -155,7 +157,8 @@ do {
                         • Cuota mensual: $${cuotaMensual.toFixed(2)}
                         `);
             break;
-
+        
+        //caso POLO
         case 3:
             valorVehiculo = 47000000;
             console.log("vehiculo seleccionado: Polo Nuevo");
