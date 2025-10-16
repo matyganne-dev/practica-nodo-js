@@ -86,7 +86,7 @@ do {
             totalFinanciar = diferenciaPagar + interesTotal;
             cuotaMensual = totalFinanciar / cuotaElegida;
 
-            console.log(`📊 RESUMEN DE FINANCIACIÓN:
+            console.log(`RESUMEN DE FINANCIACIÓN:
                         • Valor vehículo: $${valorVehiculo}
                         • Entrada pagada: $${dineroDisponible}
                         • Saldo a financiar: $${diferenciaPagar}
@@ -144,7 +144,7 @@ do {
             totalFinanciar = diferenciaPagar + interesTotal;
             cuotaMensual = totalFinanciar / cuotaElegida;
 
-            console.log(`📊 RESUMEN DE FINANCIACIÓN:
+            console.log(`RESUMEN DE FINANCIACIÓN:
                         • Valor vehículo: $${valorVehiculo}
                         • Entrada pagada: $${dineroDisponible}
                         • Saldo a financiar: $${diferenciaPagar}
@@ -202,7 +202,7 @@ do {
             totalFinanciar = diferenciaPagar + interesTotal;
             cuotaMensual = totalFinanciar / cuotaElegida;
 
-            console.log(`📊 RESUMEN DE FINANCIACIÓN:
+            console.log(`RESUMEN DE FINANCIACIÓN:
                         • Valor vehículo: $${valorVehiculo}
                         • Entrada pagada: $${dineroDisponible}
                         • Saldo a financiar: $${diferenciaPagar}
