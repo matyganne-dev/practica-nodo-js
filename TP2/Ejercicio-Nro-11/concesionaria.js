@@ -69,11 +69,11 @@ do {
                         cuotaElegida = 12;
                         break;
                     case 2:
-                        tasaAnual = 0.22;
+                        tasaAnual = 0.44;
                         cuotaElegida = 24;
                         break;
                     case 3:
-                        tasaAnual = 0.33;
+                        tasaAnual = 0.99;
                         cuotaElegida = 36;
                         break;
                     default:
@@ -127,11 +127,11 @@ do {
                         cuotaElegida = 12;
                         break;
                     case 2:
-                        tasaAnual = 0.22;
+                        tasaAnual = 0.44;
                         cuotaElegida = 24;
                         break;
                     case 3:
-                        tasaAnual = 0.33;
+                        tasaAnual = 0.99;
                         cuotaElegida = 36;
                         break;
                     default:
@@ -185,11 +185,11 @@ do {
                         cuotaElegida = 12;
                         break;
                     case 2:
-                        tasaAnual = 0.22;
+                        tasaAnual = 0.44;
                         cuotaElegida = 24;
                         break;
                     case 3:
-                        tasaAnual = 0.33;
+                        tasaAnual = 0.99;
                         cuotaElegida = 36;
                         break;
                     default:
